@@ -1,6 +1,6 @@
 # Agent-ChatBox App - AI 知识库问答助手
 
-> 🤖 使用 Cursor + Claude 3.5 Sonnet 打造的企业级 AI 知识库助手
+> 🤖 使用 Cursor + Claude 4.5 Sonnet 打造的企业级 AI 知识库助手
 
 ## 📱 项目简介
 
